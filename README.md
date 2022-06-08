@@ -31,7 +31,7 @@
  <div> 
   
   
- 	<a href="https://www.linkedin.com/in/marco-viana2022/" target="_blank"><img src="![image](https://user-images.githubusercontent.com/106412037/172516049-284ac59b-ac28-476d-a19f-ded550e21ae9.png)" target="_blank"></a>
+ 	<a href="https://www.linkedin.com/in/marco-viana2022/" target="_blank"><img src="![image](https://user-images.githubusercontent.com/106412037/172516049-284ac59b-ac28-476d-a19f-ded550e21ae9.png)></a>
 
 
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
