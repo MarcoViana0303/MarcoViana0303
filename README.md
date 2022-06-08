@@ -26,7 +26,7 @@
   <img align="center" alt="Marco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
- <img align="right" alt="Marco-Crazy" height="30" width="40" src="https://tenor.com/view/family-guy-stewie-griffin-gone-crazy-insane-letter-l-gif-17135412">
+ <img align="right" alt="Marco-Crazy" src="https://c.tenor.com/1hCJHFQDPssAAAAM/robert-redford-peter-griffin.gif">
 </div>
  
  ##
