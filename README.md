@@ -2,20 +2,28 @@
  👾 Sou de São Paulo
  👾 Tenho 21 anos
  👾 Mais informações sobre mim em meu [linkedIn](https://www.linkedin.com/in/marco-viana2022/)
--->
+ <br />
  🎓 Formado em Desenvolvimento de Sistemas pela Etec
+ <br />
  🧑‍🎓 Estou estudando HTML/CSS
+ <br />
  🧑‍🎓 Estou estudando Python
+ <br />
  🧑‍🎓 Estou estudando Javascript
+ <br />
  🧑‍🎓 Estou estudando sobre gerenciamento de Banco de Dados
+ <br />
  📚 Estou aprendendo sobre Metodologias Ágeis
+ <br />
  📚 Estou aprendendo sobre Soft Skills   
+ <br />
  🌱 Pronomes: ele/dele
-<--
+ <br />
+
 <div align="center">
   <a href="https://github.com/MarcoViana0303">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcoViana0303&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoViana0303&layout=compact&langs_count=7&theme=merko"/>
+ 
    
    </div>
 <div style="display: inline_block"><br>
