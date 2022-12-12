@@ -15,17 +15,15 @@ object **MARCO VIANA** {
  
  var agileMethodology = ["Kanban"];
  const developingSoftSkills = true;
-}
+};
 ```
 
-<div align="center">
-  <a href="https://github.com/MarcoViana0303">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcoViana0303&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
- 
-   
-   </div>
  <br />
+ 
 <div style="display: inline_block"><br>
+ 
+ **Skills**
+ 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -53,12 +51,19 @@ object **MARCO VIANA** {
  [![Gmail Badge](https://img.shields.io/badge/-marcoviana100@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcoviana100@gmail.com)](mailto:marcoviana100@gmail.com) [![Linkedin: marco-viana2022](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-viana2022/)](https://www.linkedin.com/in/marco-viana2022/)
  [![GitHub MarcoViana0303]( https://img.shields.io/github/followers/MarcoViana0303?label=follow&style=social)](https://github.com/MarcoViana0303)
 
+ <br />
+ </div>
+ 
+ <div align="left">
+  <a href="https://github.com/MarcoViana0303">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcoViana0303&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+   
+   <img align="right" alt="Marco-dev" height="185"  src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="gifs · GitHub Topics · GitHub" data-noaft="1" style="width: 435px; height: 244.688px; margin: 0px;">
+   </div>
+  
+  <br />
 
  
- <img align="right" alt="Marco-dev" height="150"  src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="gifs · GitHub Topics · GitHub" data-noaft="1" style="width: 435px; height: 244.688px; margin: 0px;">
-</div>
- 
- ##
  ![](https://komarev.com/ghpvc/?username=MarcoViana0303&color=006bed)
  
  <div> 
