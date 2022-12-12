@@ -58,7 +58,7 @@ object **MARCO VIANA** {
   <a href="https://github.com/MarcoViana0303">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcoViana0303&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
    
-   <img align="right" alt="Marco-dev" height="185"  src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="gifs · GitHub Topics · GitHub" data-noaft="1" style="width: 435px; height: 244.688px; margin: 0px;">
+   <img align="right" alt="Marco-dev" height="185"  src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="gifs · GitHub Topics · GitHub" data-noaft="1" style="width: 300px; height: 244.688px; margin: 0px;">
    </div>
   
   <br />
