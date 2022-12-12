@@ -7,15 +7,15 @@
  <br />
  🧑‍🎓 Estou estudando HTML/CSS
  <br />
- 🧑‍🎓 Estou estudando Python
- <br />
  🧑‍🎓 Estou estudando Javascript
+ <br />
+ 🧑‍🎓 Estou estudando Docker
  <br />
  🧑‍🎓 Estou estudando sobre gerenciamento de Banco de Dados
  <br />
  📚 Estou aprendendo sobre Metodologias Ágeis
  <br />
- 📚 Estou aprendendo sobre Soft Skills   
+ 📚 Estou sempre em busca do aperfeiçoamento das minhas Soft Skills   
  <br />
  🌱 Pronomes: ele/dele
  <br />
