@@ -1,24 +1,22 @@
 ### Olá, visitante! Meu nome é Marco Viana 👋
- 👾 Sou de São Paulo
- 👾 Tenho 21 anos
- 👾 Mais informações sobre mim em meu [linkedIn](https://www.linkedin.com/in/marco-viana2022/)
- <br />
- 🎓 Formado em Desenvolvimento de Sistemas pela Etec
- <br />
- 🧑‍🎓 Estou estudando HTML/CSS
- <br />
- 🧑‍🎓 Estou estudando Javascript
- <br />
- 🧑‍🎓 Estou estudando Docker
- <br />
- 🧑‍🎓 Estou estudando sobre gerenciamento de Banco de Dados
- <br />
- 📚 Estou aprendendo sobre Metodologias Ágeis
- <br />
- 📚 Estou sempre em busca do aperfeiçoamento das minhas Soft Skills   
- <br />
- 🌱 Pronomes: ele/dele
- <br />
+ 
+ 
+ ```kotlin
+object **MARCO VIANA** {
+ const name = "Marco Antônio Maciel Viana";
+ var age = 21;
+ const wasBorn = "São Paulo";
+ 
+ var studyingAt = "Trybe";
+ var someFormation = ["Desenvolvimento de Sistemas- Etec"];
+ 
+ var mySkills = "HABILIDADES";
+ var skills = listOf("HTML5", "CSS3", "JavaScript", "React", "React Testing Library", "Jest", "MySQL");
+ 
+ var agileMethodology = ["Kanban"];
+ const developingSoftSkills = true;
+}
+```
 
 <div align="center">
   <a href="https://github.com/MarcoViana0303">
@@ -26,6 +24,7 @@
  
    
    </div>
+ <br />
 <div style="display: inline_block"><br>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
@@ -33,18 +32,36 @@
  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<br />
+<br />
+
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+<br />
+ 
+ **DevOps**
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+ <br />
+ 
+ **Para entrar em contato**
+ 
+ [![Gmail Badge](https://img.shields.io/badge/-marcoviana100@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcoviana100@gmail.com)](mailto:marcoviana100@gmail.com) [![Linkedin: marco-viana2022](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-viana2022/)](https://www.linkedin.com/in/marco-viana2022/)
+ [![GitHub MarcoViana0303]( https://img.shields.io/github/followers/MarcoViana0303?label=follow&style=social)](https://github.com/MarcoViana0303)
+
 
  
  <img align="right" alt="Marco-dev" height="150"  src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="gifs · GitHub Topics · GitHub" data-noaft="1" style="width: 435px; height: 244.688px; margin: 0px;">
 </div>
  
  ##
+ ![](https://komarev.com/ghpvc/?username=MarcoViana0303&color=006bed)
  
  <div> 
-  
- <a href="https://discordapp.com/users/417134547180716042" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:marcoviana100@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marco-viana2022/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/MarcoViana0303/MarcoViana0303/blob/output/github-contribution-grid-snake.svg)
  
