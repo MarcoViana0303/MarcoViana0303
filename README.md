@@ -10,9 +10,6 @@ object **MARCO VIANA** {
  var studyingAt = "Trybe";
  var someFormation = ["Desenvolvimento de Sistemas- Etec"];
  
- var mySkills = "HABILIDADES";
- var skills = listOf("HTML5", "CSS3", "JavaScript", "React", "React Testing Library", "Jest", "MySQL");
- 
  var agileMethodology = ["Kanban"];
  const developingSoftSkills = true;
 };
