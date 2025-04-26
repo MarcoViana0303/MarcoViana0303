@@ -49,7 +49,7 @@ object **MARCO VIANA** {
  
 ## **Para entrar em contato**
  
- [![Gmail Badge](https://img.shields.io/badge/-marcoviana.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcoviana.dev@gmail.com)](mailto:marcoviana.dev@gmail.com) [![Linkedin: marco-viana2022](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-viana2022/)](https://www.linkedin.com/in/marco-viana2022/)
+ [![Gmail Badge](https://img.shields.io/badge/-marcoviana.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcoviana.dev@gmail.com)](mailto:marcoviana.dev@gmail.com) [![Linkedin: marco-viana2022](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcoviana-dev/)](https://www.linkedin.com/in/marco-viana2022/)
  [![GitHub MarcoViana0303]( https://img.shields.io/github/followers/MarcoViana0303?label=follow&style=social)](https://github.com/MarcoViana0303)
 
  <br />
