@@ -4,7 +4,7 @@
  ```kotlin
 object **MARCO VIANA** {
  const name = "Marco Antônio Maciel Viana";
- var age = 22;
+ var age = 24;
  const wasBorn = "São Paulo";
  
  var studyingAt = "Trybe";
