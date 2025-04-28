@@ -7,8 +7,8 @@ object **MARCO VIANA** {
  var age = 24;
  const wasBorn = "São Paulo";
  
- var studyingAt = "Trybe";
- var someFormation = ["Desenvolvimento de Sistemas- Etec"];
+ var studyingAt = "ADS - Anhembi Morumbi";
+ var someFormation = ["Desenvolvimento de Sistemas- Etec, Trybe"];
  
  var agileMethodology = ["Kanban"];
  const developingSoftSkills = true;
